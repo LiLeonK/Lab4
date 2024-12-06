@@ -1,0 +1,14 @@
+C:\Games\Внедрение и поддержка комп. систем\Lab4\Examples\Ex01\bin\Debug\net8.0\Ex01.exe
+C:\Games\Внедрение и поддержка комп. систем\Lab4\Examples\Ex01\bin\Debug\net8.0\Ex01.deps.json
+C:\Games\Внедрение и поддержка комп. систем\Lab4\Examples\Ex01\bin\Debug\net8.0\Ex01.runtimeconfig.json
+C:\Games\Внедрение и поддержка комп. систем\Lab4\Examples\Ex01\bin\Debug\net8.0\Ex01.dll
+C:\Games\Внедрение и поддержка комп. систем\Lab4\Examples\Ex01\bin\Debug\net8.0\Ex01.pdb
+C:\Games\Внедрение и поддержка комп. систем\Lab4\Examples\Ex01\obj\Debug\net8.0\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Внедрение и поддержка комп. систем\Lab4\Examples\Ex01\obj\Debug\net8.0\Ex01.AssemblyInfoInputs.cache
+C:\Games\Внедрение и поддержка комп. систем\Lab4\Examples\Ex01\obj\Debug\net8.0\Ex01.AssemblyInfo.cs
+C:\Games\Внедрение и поддержка комп. систем\Lab4\Examples\Ex01\obj\Debug\net8.0\Ex01.csproj.CoreCompileInputs.cache
+C:\Games\Внедрение и поддержка комп. систем\Lab4\Examples\Ex01\obj\Debug\net8.0\Ex01.dll
+C:\Games\Внедрение и поддержка комп. систем\Lab4\Examples\Ex01\obj\Debug\net8.0\refint\Ex01.dll
+C:\Games\Внедрение и поддержка комп. систем\Lab4\Examples\Ex01\obj\Debug\net8.0\Ex01.pdb
+C:\Games\Внедрение и поддержка комп. систем\Lab4\Examples\Ex01\obj\Debug\net8.0\Ex01.genruntimeconfig.cache
+C:\Games\Внедрение и поддержка комп. систем\Lab4\Examples\Ex01\obj\Debug\net8.0\ref\Ex01.dll
